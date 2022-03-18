@@ -1,3 +1,5 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/patater/mutual-tls)](https://goreportcard.com/report/github.com/patater/mutual-tls)
+
 # Mutually authenticated TLS in Go
 
 Apache 2.0 licensed demo for doing mutually authenticated TLS for Go,
